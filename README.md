@@ -1,2 +1,2 @@
-# base64toaudio
-Convertendo base 64 em arquivo de audio em qualquer formato (python)
+# Base 64 para áudio
+Convertendo base 64 em arquivo de áudio em qualquer formato (python)
